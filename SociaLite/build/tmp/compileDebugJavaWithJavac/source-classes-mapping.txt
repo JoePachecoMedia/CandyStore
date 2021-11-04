@@ -1,0 +1,34 @@
+com/example/candystore/BuildConfig.java
+ com.example.candystore.BuildConfig
+com/example/candystore/MainActivity.java
+ com.example.candystore.MainActivity
+com/example/candystore/FirstFragment.java
+ com.example.candystore.FirstFragment
+ com.example.candystore.FirstFragment$1
+com/example/candystore/databinding/ContentMainBinding.java
+ com.example.candystore.databinding.ContentMainBinding
+com/example/candystore/databinding/FragmentSecondBinding.java
+ com.example.candystore.databinding.FragmentSecondBinding
+com/example/candystore/databinding/ActivityMainBinding.java
+ com.example.candystore.databinding.ActivityMainBinding
+com/example/candystore/SecondFragment.java
+ com.example.candystore.SecondFragment
+ com.example.candystore.SecondFragment$1
+com/example/candystore/databinding/ActivityAddBinding.java
+ com.example.candystore.databinding.ActivityAddBinding
+com/example/candystore/databinding/FragmentFirstBinding.java
+ com.example.candystore.databinding.FragmentFirstBinding
+com/example/candystore/DeleteActivity.java
+ com.example.candystore.DeleteActivity
+ com.example.candystore.DeleteActivity$1
+ com.example.candystore.DeleteActivity$RadioButtonHandler
+com/example/candystore/Candy.java
+ com.example.candystore.Candy
+com/example/candystore/UpdateActivity.java
+ com.example.candystore.UpdateActivity
+ com.example.candystore.UpdateActivity$1
+ com.example.candystore.UpdateActivity$ButtonHandler
+com/example/candystore/AddActivity.java
+ com.example.candystore.AddActivity
+com/example/candystore/DatabaseManager.java
+ com.example.candystore.DatabaseManager
